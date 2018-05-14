@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/gridmvc")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink(Wastes.Resourses.Resource.ProjectName, "Index", "Home", new { area = "" }, new { @class = "navbar-brand nav-text" })
+            </div>
+            <div class="navbar-collapse collapse nav-color navbar-toggleable-*">
+                <ul class="nav navbar-nav">
+                    @*<li>@Html.ActionLink("Начало", "Index", "Home")</li>
+                    <li>@Html.ActionLink("English", "Change", "Home", new { language = "en"}, null)</li>
+                    <li>@Html.ActionLink("Bulgarian", "Change", "Home", new { language = "bg" }, null)</li>*@
+                    @*<li>@DateTime.Now.ToString()</li>*@
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink(Wastes.Resourses.Resource.ManageStorages, "ListStorages", "Storage", null, new { @class = "nav-text"})</li>
+                        <li>@Html.ActionLink(Wastes.Resourses.Resource.ManageWastes, "ListOfWastes", "Waste", null, new { @class = "nav-text" })</li>
+                    }
+                    @if (User.IsInRole("Performer"))
+                    {
+                        <li>@Html.ActionLink(Wastes.Resourses.Resource.History, "HistoryList", "History", null, new { @class = "nav-text" })</li>
+                    }
+
+                </ul>
+                @Html.Partial("_LoginPartial")              
+            </div>            
+        </div>
+ 
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <div id="modal-container" class="modal fade" tabindex="-1" role="dialog" >
+            @*<a href="#close" title="Close" class="modal-close-btn">X</a>*@
+            <div class="modal-content" style="width: 50% !important; margin: 10px auto !important;">
+                <h4>Отпадъци</h4>
+                <div class="modal-body"></div>
+            </div>
+        </div>
+        <hr />
+        <footer>
+            <center><p>&copy; @DateTime.Now.Year - Waste Project</p></center>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+

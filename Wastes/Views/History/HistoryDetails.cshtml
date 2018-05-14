@@ -1,0 +1,59 @@
+﻿@model Wastes.ViewModels.HistoryVM
+@{
+    ViewBag.Title = "HistoryDetails";
+}
+<link href="~/Content/HistoryDetails.css" rel="stylesheet" />
+
+<div class="form-background backgound">
+
+    <h4>График</h4>
+
+    <dl class="dl-horizontal shedule">
+        @*<dt>@Html.DisplayNameFor(m => m.PredictedStartDate)</dt>
+            <dd>@Html.DisplayFor(m => m.PredictedStartDate)</dd>
+
+            <dt>@Html.DisplayNameFor(m => m.PredictedEndDate)</dt>
+            <dd>@Html.DisplayFor(m => m.PredictedEndDate)</dd>*@
+
+        <dt>@Html.DisplayNameFor(m => m.DateOfImplementation)</dt>
+        <dd>@Html.DisplayFor(m => m.DateOfImplementation)</dd>
+
+        <dt>@Html.DisplayNameFor(m => m.PerformerName)</dt>
+        <dd>@Html.DisplayFor(m => m.PerformerName)</dd>
+
+        <dt>@Html.DisplayNameFor(m => m.StartStorage)</dt>
+        <dd><a href="@Model.StartStorage.MapAddress" target="_blank">@Html.DisplayFor(m => m.StartStorage.Name)</a></dd>
+
+        <dt>@Html.DisplayNameFor(m => m.EndStorage)</dt>
+        <dd><a href="@Model.EndStorage.MapAddress" target="_blank">@Html.DisplayFor(m => m.EndStorage.Name)</a></dd>
+    </dl>
+    <hr />
+    <h4>Отпадъци за превозване</h4>
+    <table class="">
+        <tr>
+            <th class="table-paddings">Идентиф. номер</th>
+            <th class="table-paddings">Количество</th>
+            <th class="table-paddings">Тип</th>
+        </tr>
+
+        @for (int i = 0; i < Model.Wastes.Count(); i++)
+        {
+            <tr>
+                <td>@Model.Wastes[i].Number</td>
+                <td>@Model.Wastes[i].Quantity</td>
+                <td>@Model.Wastes[i].Type</td>
+            </tr>
+        }
+    </table>
+</div>
+
+<center>
+    <div>
+        <div style="display: inline-block"><img src="~/Images/home-icon-gray.png" /></div>
+        <div style="display: inline-block"><p style="border-bottom: thick dotted #b6ff00;">Към междинна площадка</p></div>
+        <div style="display: inline-block"><a onclick="return confirm('Изпълняване?');" href="@Url.Action("GoToMedium", "History", new { rowId = Model.Id })"><img src="~/Images/home-icon-blue.png" /></a></div>
+        <div style="display: inline-block"><p style="border-bottom: thick dotted #b6ff00;">Към инсинератор</p></div>
+        <div style="display: inline-block"><a onclick="return confirm('Изпълняване?');" href="@Url.Action("GoToIncinerator", "History", new { rowId = Model.Id })"><img src="~/Images/home-icon-green.png" /></a></div>
+    </div>
+</center>
+@Html.ActionLink("Към графика", "HistoryList", "History")

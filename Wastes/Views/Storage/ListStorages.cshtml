@@ -1,0 +1,45 @@
+﻿@model List<Wastes.ViewModels.StorageVM>
+@{
+    ViewBag.Title = Wastes.Resourses.Resource.ManageStorages;
+}
+<link href="~/Content/tables.css" rel="stylesheet" />
+<center><h2>@Wastes.Resourses.Resource.ManageStorages</h2></center>
+
+<table class="table my-table table-responsive">
+    <tr>
+        <th class="table-text">Име</th>
+        <th class="table-text">Адрес</th>
+        <th class="table-text">Тип</th>
+        <th class="table-text">Текущо количество</th>
+        <th class="table-text">Адрес на карта</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        <tr>
+            <td class="table-text">@Model[i].Name</td>
+            <td class="table-text">@Model[i].Address</td>
+            <td class="table-text">@Model[i].StorageType</td>
+            <td class="table-text">@Model[i].WholeQuantity</td>
+            <td><a class="links" href="@Model[i].MapAddress" target="_blank">Покажи на картата</a></td>
+            <td>
+                @Html.ActionLink(Wastes.Resourses.Resource.Edit, "EditStorage", "Storage", new { storageId = Model[i].Id },
+                new { @class = "links" })
+            </td>
+            <td>
+                @Html.ActionLink(Wastes.Resourses.Resource.Delete, "DeleteStorage", "Storage", new { storageId = Model[i].Id },
+               new { onclick = "return confirm('" + Wastes.Resourses.Resource.ConfirmDialogMsg + "');", @class = "links" })
+            </td>
+            <td>
+                @Html.ActionLink("Отпадъци", "WastesPartial", new { storageId = Model[i].Id }, new { @class = "img-btn-addnote modal-link links", title = "Add Note" })
+            </td>
+        </tr>
+    }
+</table>
+
+<center>@Html.ActionLink(Wastes.Resourses.Resource.AddNew, "CreateStorage", "Storage", null, new { @class = "links" })</center>
+
+@Scripts.Render("~/bundles/jquery")
+<script src="~/Scripts/Storages/ListOfStorages.js"></script>

@@ -1,0 +1,288 @@
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\ApplicationInsights.config
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\csc.exe
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\System.Collections.Immutable.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\vbc.exe
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\VBCSCompiler.exe
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\roslyn\VBCSCompiler.exe.config
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Wastes.dll.config
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Wastes.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Wastes.pdb
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Antlr3.Runtime.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\EntityFramework.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\EntityFramework.SqlServer.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.DependencyCollector.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.Web.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.WindowsServer.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.ApplicationInsights.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Google.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Web.Infrastructure.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Newtonsoft.Json.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Owin.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Helpers.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Mvc.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Optimization.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Razor.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.WebPages.Deployment.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.WebPages.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.WebPages.Razor.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\WebGrease.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.DependencyCollector.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.Web.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AI.WindowsServer.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.ApplicationInsights.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Helpers.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Mvc.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Optimization.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.Razor.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.WebPages.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.WebPages.Deployment.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\System.Web.WebPages.Razor.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Antlr3.Runtime.pdb
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Newtonsoft.Json.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\EntityFramework.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\EntityFramework.SqlServer.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Google.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\obj\Debug\Wastes.csprojResolveAssemblyReference.cache
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\obj\Debug\Wastes.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\obj\Debug\Wastes.pdb
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\WastesDB.dll
+E:\MyThings\DotNewProjects\PUDOOS\WasteProject_20_01_2016\Wastes\bin\WastesDB.pdb
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\ApplicationInsights.config
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\csc.exe
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\System.Collections.Immutable.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\vbc.exe
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\VBCSCompiler.exe
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\VBCSCompiler.exe.config
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Wastes.dll.config
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Wastes.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Wastes.pdb
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Antlr3.Runtime.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\EntityFramework.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\EntityFramework.SqlServer.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.DependencyCollector.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.Web.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.WindowsServer.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.ApplicationInsights.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Google.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Web.Infrastructure.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Newtonsoft.Json.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Owin.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Helpers.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Mvc.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Optimization.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Razor.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.WebPages.Deployment.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.WebPages.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.WebPages.Razor.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\WastesDB.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\WebGrease.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\WastesDB.pdb
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.DependencyCollector.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.Web.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AI.WindowsServer.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.ApplicationInsights.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Helpers.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Mvc.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Optimization.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.Razor.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.WebPages.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.WebPages.Deployment.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\System.Web.WebPages.Razor.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Antlr3.Runtime.pdb
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Newtonsoft.Json.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\EntityFramework.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\EntityFramework.SqlServer.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Google.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\Wastes.csprojResolveAssemblyReference.cache
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\Wastes.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\Wastes.pdb
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\csc.exe.config
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\csc.rsp
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\csi.exe
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\csi.rsp
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\System.AppContext.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\System.IO.FileSystem.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\vbc.exe.config
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\roslyn\vbc.rsp
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\en\Wastes.resources.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\Wastes.Resourses.Resource.resources
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\Wastes.Resourses.Resource.en.resources
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\Wastes.csproj.GenerateResource.Cache
+E:\MyThings\DotNewProjects\WasteProject\Wastes\obj\Debug\en\Wastes.resources.dll
+E:\MyThings\DotNewProjects\WasteProject\Wastes\bin\GridMvc.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\ApplicationInsights.config
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\csc.exe
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\csc.exe.config
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\csc.rsp
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\csi.exe
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\csi.rsp
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\System.AppContext.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\vbc.exe
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\vbc.exe.config
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\vbc.rsp
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Wastes.dll.config
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Wastes.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Wastes.pdb
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Antlr3.Runtime.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\EntityFramework.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\EntityFramework.SqlServer.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\GridMvc.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.Web.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Newtonsoft.Json.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Owin.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Helpers.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Mvc.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Optimization.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Razor.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.WebPages.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\WebGrease.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Antlr3.Runtime.pdb
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.Web.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Newtonsoft.Json.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Helpers.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Mvc.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Optimization.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.Razor.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.WebPages.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\EntityFramework.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\EntityFramework.SqlServer.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\obj\Debug\Wastes.Resourses.Resource.resources
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\obj\Debug\Wastes.csproj.GenerateResource.Cache
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\obj\Debug\Wastes.csproj.CoreCompileInputs.cache
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\obj\Debug\Wastes.dll
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\obj\Debug\Wastes.pdb
+C:\Users\Nataliya\Desktop\Lozanova\UNI 2017-2018\C#\WasteProject\Wastes\obj\Debug\Wastes.csprojResolveAssemblyReference.cache

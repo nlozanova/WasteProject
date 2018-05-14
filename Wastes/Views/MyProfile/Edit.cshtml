@@ -1,0 +1,48 @@
+﻿@model Wastes.ViewModels.ProfileVM
+@{
+    ViewBag.Title = Wastes.Resourses.Resource.MyProfile;
+}
+<link href="~/Content/Login.css" rel="stylesheet" />
+
+<center>
+<div class="form-background">
+@using (Html.BeginForm("Edit", "MyProfile", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>@Wastes.Resourses.Resource.MyProfile</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        @*<div class="form-group">
+                @Html.LabelFor(model => model.Roles, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(m => m.RoleId, Model.Roles, new { @class = "form-control" })
+                </div>
+            </div>*@
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" id="submit" onclick="return confirm('@Wastes.Resourses.Resource.ConfirmDialogMsg');" value="@Wastes.Resourses.Resource.Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+</div>
+</center>
+

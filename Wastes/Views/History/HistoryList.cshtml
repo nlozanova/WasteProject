@@ -1,0 +1,65 @@
+﻿@model List<Wastes.ViewModels.HistoryVM>
+@{
+    ViewBag.Title = "График";
+}
+
+<link href="~/Content/History.css" rel="stylesheet" />
+<link href="~/Content/tables.css" rel="stylesheet" />
+<h2>График на Наталия Лозанова</h2>
+
+
+
+<table class="table my-table">
+    <tr style="border-bottom: 1px solid white;">
+        <th class="table-text">Начална точка</th>
+        <th class="table-text">Крайна точка</th>
+        @*<th>Планувана начална дата</th>
+        <th>Планувана крайна дата</th>*@
+        <th class="table-text">Дата на изпълнение</th>
+        <th></th>
+        <th class="table-text">Етап</th>
+    </tr>
+
+    @for (int index = 0; index < Model.Count; index++)
+    {
+        <tr>
+            <td><a href="@Model[index].StartStorage.MapAddress" target="_blank">@Model[index].StartStorage.Name</a></td>
+            <td><a href="@Model[index].EndStorage.MapAddress" target="_blank">@Model[index].EndStorage.Name</a></td>
+            @*<td>@Model[index].PredictedStartDate</td>
+            <td>@Model[index].PredictedEndDate</td>*@
+            <td class="table-text">@Model[index].DateOfImplementation</td>
+
+            <td>
+
+                @Html.ActionLink("Детайли", "HistoryDetails", "History", new { historyId = Model[index].Id}, new { @class = "btn btn-primary" })               
+            </td>
+
+
+            @*@if (Model[index].IsChecked)
+            {
+                <td><img src="~/Images/tick.png" /></td>
+            }
+            else
+            {
+                <td>
+                    @Html.ActionLink("Натоварено", "CheckRow", "History", new { rowId = Model[index].Id },
+               new { onclick = "return confirm('Изпълняване?');", @class = "btn btn-primary links" })
+                </td>
+            }*@
+            <td class="table-text">@Model[index].Wastes.FirstOrDefault().Status</td>
+        </tr>
+
+    }
+    
+    <tr class="table-footer">
+        @*<td><img src="~/Images/newIcon.png" />@Html.ActionLink("CreateShedule", "Shedule")</td>*@
+        @*<td>@Html.ActionLink("Text", "CreateShedule", "Shedule", new { @class = "addSheduleImg"})</td>*@
+        @*<td><a href="http://www.w3schools.com"><img src="~/Images/newIcon.png" /></a></td>
+            <td><a href="http://www.w3schools.com"><img src="~/Images/editIcon.png" /></a></td>
+            <td></td>*@
+    </tr>
+    
+</table>
+<center>@Html.ActionLink("Добави", "CreateHistory", "History", null, new { @class = "links add-new" })</center>
+<script src="~/Scripts/jquery-3.1.1.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>

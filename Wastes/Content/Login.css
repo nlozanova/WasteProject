@@ -1,0 +1,30 @@
+﻿body {
+    background-image: url('../Images/login-background.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 110%;
+}
+
+.login-picture {
+    background-image: url('../Images/login-picture.png');
+    background-repeat: no-repeat;
+}
+.form-background {
+    width: 50%;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.3);
+    padding: 0% 2% 2% 2%;
+    text-align: center;
+
+}
+
+h4 {
+    color: white;
+    padding: 7%;
+}
+
+.form-group {
+    color: ghostwhite;
+    width: auto;
+}

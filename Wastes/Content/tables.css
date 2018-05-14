@@ -1,0 +1,22 @@
+﻿.links {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.my-table {
+    text-align: center;
+    box-shadow: 2px 8px 5px rgba(0, 0, 0, 0.4);
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.3);
+}
+.table-text {
+     text-align: center;
+     color: whitesmoke;
+}
+
+h2 {
+    background-color: #b9ff6a;
+    /*background-image: url('../Images/table background.png');*/
+    margin-bottom: auto;
+    padding: 1%;
+}
+

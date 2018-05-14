@@ -1,0 +1,57 @@
+﻿@using GridMvc.Html
+@model List<Wastes.ViewModels.WasteVM>
+@{
+    ViewBag.Title = Wastes.Resourses.Resource.ManageWastes;
+}
+<link href="~/Content/tables.css" rel="stylesheet" />
+<center><h2>@Wastes.Resourses.Resource.ManageWastes</h2></center>
+
+<table class="table my-table table-responsive">
+    <tr>
+        <th class="table-text">Идент. номер</th>
+        <th class="table-text">Тип</th>
+        <th class="table-text">Количество</th>
+        <th class="table-text">Първоначален склад</th>
+        <th class="table-text">Статус</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        <tr>
+            <td class="table-text">@Model[i].Number</td>
+            <td class="table-text">@Model[i].Type</td>
+            <td class="table-text">@Model[i].Quantity</td>
+            <td class="table-text">@Model[i].StorageName</td>
+            <td class="table-text">@Model[i].Status</td>
+            <td>
+                @Html.ActionLink(Wastes.Resourses.Resource.Edit, "EditWaste", "Waste", new { wasteId = Model[i].Id },
+                new { @class = "links" })
+            </td>
+            <td>
+                @Html.ActionLink(Wastes.Resourses.Resource.Delete, "DeleteWaste", "Waste", new { wasteId = Model[i].Id },
+               new { onclick = "return confirm('" + Wastes.Resourses.Resource.ConfirmDialogMsg + "');", @class = "links" })
+            </td>
+        </tr>
+    }
+</table>
+
+<center>@Html.ActionLink(Wastes.Resourses.Resource.AddNew, "CreateWaste", "Waste", null, new { @class = "links add-btn row" })</center>
+
+
+@*@Html.Grid(Model).Columns(col =>
+{
+    col.Add(x => x.Number).Titled("Номер");
+    col.Add(x => x.Type).Titled("Тип");
+    col.Add(x => x.Quantity).Titled("Количество");
+    col.Add(x => x.StorageName).Titled("Склад");
+    col.Add(x => x.Status).Titled("Статус").Encoded(false).Sanitized(false);
+}).WithPaging(5)*@
+
+@*@Html.Grid(Model).Columns(columns =>
+    {
+        columns.Add(x => x.Number).Titled("Номер");
+        columns.Add(x => x.Quantity).Titled("Количество");
+        columns.Add(x => x.Type).Titled("Тип");
+        columns.Add(x => x.IsChecked).Titled("Избери").Encoded(false).Sanitized(false).RenderValueAs(o => Html.CheckBox("checked", false, new { name = "checkedWaste" }));
+    }).WithPaging(10)*@

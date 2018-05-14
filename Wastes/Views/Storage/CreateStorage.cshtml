@@ -1,0 +1,47 @@
+﻿@model Wastes.ViewModels.StorageVM
+@{
+    ViewBag.Title = Wastes.Resourses.Resource.CreateStorage;
+}
+
+
+
+@using (Html.BeginForm("CreateStorage", "Storage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <h4>@Wastes.Resourses.Resource.CreateStorage</h4>
+        <hr />
+        @Html.HiddenFor(x => x.Id)
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Address, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Address, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.MapAddress, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.MapAddress, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Types, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.TypeId, Model.Types, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" onclick="return confirm('@Wastes.Resourses.Resource.ConfirmDialogMsg');" class="btn btn-default" value="@Wastes.Resourses.Resource.Save" />
+            </div>
+        </div>
+    </div>
+}
+

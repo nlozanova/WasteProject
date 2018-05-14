@@ -1,0 +1,30 @@
+﻿.backgound {
+    /*background-color: #9fff80;*/
+    padding: 4%;
+    box-shadow: 8px 8px 5px #5d8872;
+    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.3);
+    margin: 4%;
+}
+
+.shedule {
+    width: auto;
+}
+
+h2, g4, dt, dd, th, td, a {
+    color: cornsilk;
+    /*font-size: 20px;*/
+}
+
+h2 {
+    text-align: center;
+}
+
+table{
+    width: 50%;
+}
+.house {
+    background-image: url('../Images/home-icon-blue.png');
+    width: auto;
+    height: auto;
+}

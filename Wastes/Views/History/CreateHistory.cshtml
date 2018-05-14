@@ -1,0 +1,54 @@
+﻿@using GridMvc.Html
+@model Wastes.ViewModels.History.CreateHistoryVM
+@{
+    ViewBag.Title = Wastes.Resourses.Resource.CreateHistory;
+}
+
+
+
+@using (Html.BeginForm("CreateHistory", "History", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <h4>@Wastes.Resourses.Resource.CreateHistory</h4>
+        <hr />
+        @Html.HiddenFor(x => x.Id)
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.StartStorageId, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.StartStorageId, Model.Storages, new { @class = "form-control startStorage" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.EndStorageId, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.EndStorageId, Model.Storages, new { @class = "form-control" })
+            </div>
+        </div>
+
+        @*@Html.Grid(Model.Wastes).Columns(columns =>
+   {
+       columns.Add(x => x.Number).Titled("Номер");
+       columns.Add(x => x.Quantity).Titled("Количество");
+       columns.Add(x => x.Type).Titled("Тип");
+       columns.Add(x => x.IsChecked).Titled("Избери").Encoded(false).Sanitized(false).RenderValueAs(o => Html.CheckBox("checked", false, new { name = "checkedWaste" }));
+   }).WithPaging(1)*@
+
+
+        <div id="wastesPartial">
+            @Html.EditorFor(x => x.Wastes)
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" onclick="return confirm('@Wastes.Resourses.Resource.ConfirmDialogMsg');" class="btn btn-default" value="@Wastes.Resourses.Resource.Save" />
+            </div>
+        </div>
+    </div>
+}
+@Scripts.Render("~/bundles/jquery")
+
+<script src="~/Scripts/History/CreateHistory.js"></script>
